@@ -1,0 +1,11 @@
+dask[distributed]
+joblib
+matplotlib
+matplotlib-label-lines
+mpire
+numpy
+psutil
+ray
+scipy
+seaborn
+tensorflow
